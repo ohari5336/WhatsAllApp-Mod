@@ -1,3 +1,10 @@
+# WhatsAllApp-Mod
+
+This is a moded version of [WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp/) and moded by [#@R! ()M B@TR@ (ohari5336)](https://ohari5336.tk)
+
+What's New in This WhatsAllApp-Mod Version:
+*   add notification sound when user comes online
+
 # WhatsAllApp Community edition
 
 WhatsAllApp is a Chrome extension which creates an overlay of extra information on top of WhatsApp web. This is the community edition and  at this moment it enumerates and shows the following information:
@@ -9,10 +16,6 @@ WhatsAllApp is a Chrome extension which creates an overlay of extra information 
 When a WhatsApp contact comes online, the corresponding entry will have a green background and the 'last seen' entry is updated.
 
 You can download a zip file of the currently displayed accounts. The file contains a .csv file and jpegs of all the displayed profile pictures.
-
-Do you like WhatsAllApp and do you want to give me a little support? Even a small donation like $2 for a cup of coffee ☕  helps me a lot! :)	
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PHVYMCEVZNLPA)
 
 ![shot_10](https://user-images.githubusercontent.com/12978070/44982248-8576f400-af75-11e8-993c-1ce25af3c3d4.png) 
 ![shot_11](https://user-images.githubusercontent.com/12978070/44982251-860f8a80-af75-11e8-9f09-32057eeaaa82.png)

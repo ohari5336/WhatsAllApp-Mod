@@ -1,0 +1,43 @@
+{
+  "name": "whats_all_app_community_edition",
+  "version": "0.0.1",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.5.1",
+    "copy-webpack-plugin": "^4.5.2",
+    "node-sass": "^4.9.3",
+    "raw-loader": "^0.5.1",
+    "react-svg-inline": "^2.1.1",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "write-file-webpack-plugin": "^4.3.2"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
+    "@fortawesome/free-brands-svg-icons": "^5.3.1",
+    "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
+    "@fortawesome/react-fontawesome": "^0.1.0-11",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.18.2",
+    "css-loader": "^1.0.0",
+    "express": "^4.16.3",
+    "express-static": "^1.2.5",
+    "file-loader": "^2.0.0",
+    "jszip": "^3.1.5",
+    "libphonenumber-js": "^1.4.4",
+    "moment": "^2.22.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "reactstrap": "^6.4.0",
+    "style-loader": "^0.22.1",
+    "styled-components": "^3.4.4",
+    "svg-inline-loader": "^0.8.0",
+    "web-push": "^3.3.0",
+    "yarn": "^1.9.4"
+  }
+}

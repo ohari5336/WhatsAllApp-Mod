@@ -106,10 +106,25 @@ class MainContent extends Component {
                     //let url = "sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3"
                     let url = "sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3"
                     //let url = chrome.runtime.getURL("/note.mp3")
-                    //console.log(url)
+                    //console.log(account)
                     var audio = new Audio(url)
                     L(account.phoneNr + ' is online')
-                    audio.play()
+                    //audio.play()
+
+                    function show() {
+                        var no = account.phoneNr;
+                        var name = account.displayName;
+                        var lastseen = account.lastSeen;
+                        //var time = /(..)(:..)/.exec(new Date());     // The prettyprinted time.
+                        //var hour = time[1] % 12 || 12;               // The prettyprinted hour.
+                        //var period = time[1] < 12 ? 'a.m.' : 'p.m.'; // The period of the day.
+                        new Notification( "No.: "+ no + " Name: " + name, {
+                            icon: 'img/intro-connection_c98cc75f2aa905314d74375a975d2cf2.jpg',
+                            body: 'is online at ' + lastseen
+                        });
+                    }
+                    show()
+
                     account.lastSeen = new Date()
                 }
                 hydratedAccounts.push(account)

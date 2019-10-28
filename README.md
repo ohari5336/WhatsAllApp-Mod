@@ -3,7 +3,8 @@
 This is a moded version of [WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp/) and moded by [#@R! ()M B@TR@ (ohari5336)](https://ohari5336.tk)
 
 What's New in This WhatsAllApp-Mod Version:
-*   add notification sound when user comes online
+*   added sound when user comes online
+*   added notification when users comes to online
 
 # WhatsAllApp Community edition
 

@@ -1,10 +1,14 @@
 # WhatsAllApp-Mod
 
-This is a moded version of [WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp/) and moded by [#@R! ()M B@TR@ (ohari5336)](https://ohari5336.tk)
+This is a moded version of [WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp/) and moded by [#@R! ()M B@TR@ (ohari5336)](https://ohari5336.in)
 
 What's New in This WhatsAllApp-Mod Version:
 *   added sound when user comes online
 *   added notification when users comes to online
+
+what's next upcoming featcher's:
+*   now save tracking user online data on server
+*   see save user tracked data anytime in lifetime
 
 # WhatsAllApp Community edition
 

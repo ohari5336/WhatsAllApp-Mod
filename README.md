@@ -9,6 +9,9 @@ What's New in This WhatsAllApp-Mod Version:
 what's next upcoming featcher's:
 *   now save tracking user online data on server
 *   see save user tracked data anytime in lifetime
+*   track user with android phone
+*   see user tracked data in web and android app also
+*   server base tracking without pc and phone
 
 # WhatsAllApp Community edition
 

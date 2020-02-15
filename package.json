@@ -38,6 +38,6 @@
     "styled-components": "^3.4.4",
     "svg-inline-loader": "^0.8.0",
     "web-push": "^3.3.0",
-    "yarn": "^1.9.4"
+    "yarn": "^1.22.0"
   }
 }

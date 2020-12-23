@@ -2,9 +2,12 @@
 
 This is a moded version of [WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp/) and moded by [#@R! ()M B@TR@ (ohari5336)](https://ohari5336.in)
 
+# Bugs Fixed (Beta version of this repo. [here](https://github.com/ohari5336/WhatsAllApp-Mod/tree/ohari5336-patch-1))
+
 What's New in This WhatsAllApp-Mod Version:
 *   added sound when user comes online
 *   added notification when users comes to online
+*   bugs fixed (beta version of this repo. [here](https://github.com/ohari5336/WhatsAllApp-Mod/tree/ohari5336-patch-1))
 
 what's next upcoming featcher's:
 *   now save tracking user online data on server

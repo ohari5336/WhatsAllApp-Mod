@@ -28,7 +28,7 @@
     "express": "^4.16.3",
     "express-static": "^1.2.5",
     "file-loader": "^2.0.0",
-    "jszip": "^3.1.5",
+    "jszip": "^3.7.0",
     "libphonenumber-js": "^1.4.4",
     "moment": "^2.22.2",
     "react": "^16.4.2",
